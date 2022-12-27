@@ -1,3 +1,4 @@
+# FTX Background
 [FTX](https://restructuring.ra.kroll.com/FTX/) was a "Cryptocurrency Derivatives Exchange, built by traders, for traders." according to the company website. But this exchange collapsed in a bad way; withdrawals ceased, bankruptcy filings, billions of dollars gone practically overnight. Details are still coming to the surface but here are some known high-level details. For clarity, FTX is based in the Bahamas and serves non-US residents; US residents can only trade with the FTX US affiliate. Both have overlapping management teams but separate capital structures. Both are now filing for bankruptcy:
 
 [![SBF Tweet](/assets/sbf_tweet.png)](https://twitter.com/SBF_FTX/status/1591089317300293636  "SBF Tweet")
