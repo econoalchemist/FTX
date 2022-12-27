@@ -42,3 +42,16 @@ Two of the symbols identified in this document and other places on the web have 
 
 *October 28, 2022* - Nikolai Mushegian, an early [Maker DAO](https://makerdao.com/en/) developer, posted this cryptic tweet:
 
+[![Nikolai Tweet](/assets/Nikola.png)](https://twitter.com/delete_shitcoin/status/1585918718088970241 "Nikolai Tweet")
+
+*October 28, 2022* - Hours later, [Nikolai's body was found](https://nypost.com/2022/11/09/drowning-death-of-crypto-visionary-fuels-conspiracy-theories/) washed up on the beach near his Puerto Rico home. 
+
+*November 2, 2022* - CoinDesk [breaks](https://www.coindesk.com/business/2022/11/02/divisions-in-sam-bankman-frieds-crypto-empire-blur-on-his-trading-titan-alamedas-balance-sheet/) the news of the Alameda balance sheet.
+
+*November 6, 2022* - CZ [sparks](https://twitter.com/cz_binance/status/1589283421704290306) the FTT dump.
+
+*November 11, 2022* - FTX & Alameda [file for bankruptcy](https://twitter.com/SBF_FTX/status/1591089317300293636) and SBF steps down as CEO.
+
+*Later on November 11, 2022* - FTX is [hacked](https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/) and the exchange is drained of roughly $600 million dollars worth of cryptocurrency. There are [rumors](https://twitter.com/219_eth/status/1591285209114497031) at the time of writing that the servers have been wiped as well.
+
+This could all be coincidence, this could all be true, a lot of it could be false or it could be a mix of both. The majority of people will probably never know for sure. One thing is for certain though, people who trusted FTX took an enormous risk and got burned. A sobering reminder of the importance in taking radical responsibility of your bitcoin and investing in the time it takes to learn a few tips and tricks about self-custody and minimizing trust. If your goals are maintain unrestricted access to your own bitcoin which you can then use to transact directly with other peers instantly anywhere in the world, then stay away from centralized exchanges. 
