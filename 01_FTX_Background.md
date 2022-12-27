@@ -28,3 +28,5 @@ Four days after CoinDesk exposed Alameda's balance sheet, CZ of [Binance](https:
 For comedic relief, this is probably the best analogy of what occurred here:
 
 [![CZ Tweet 2](/assets/CZ_tweet2.png)](https://twitter.com/Abrahamweb3eth/status/1591072684154458115 "CZ Tweet 2")
+
+But the story starts getting weird...
