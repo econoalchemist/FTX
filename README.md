@@ -1,2 +1,15 @@
 # FTX
-FTX Events summary
+A summary of recent events surrounding FTX, conspiracies as to why it happened, and resources to start taking custody of your Bitcoin. Reject legacy financial services operating behind a façade of Bitcoin’s tenants & move forward on a path of radical responsibility as these clown towns burn to the ground.
+
+<p align="center">
+<img src="assets/burn2.jpg">
+</p>
+
+A lot of people are hurting right now because of what has happened with FTX. There are people all around the world that thought they had invested their hard-earned money and bought bitcoin on the FTX exchange. Bankruptcy filings have revealed that of the $1.4 billion dollars in bitcoin liabilities on the FTX books, there were zero bitcoin on the assets side. That means FTX sold $1.4 billion dollars worth of IOUs disguised as bitcoin. An unfortunate turn of events to say the least, but there is a lesson here; Bitcoin was designed to minimize trust, introducing trust ruins it. Trying to use bitcoin in a way where trust is involved introduces risk and defeats the purpose of certain architecture choices that enable permissionless censorship-resistant peer-to-peer transactions.
+
+Despite the pain million of people are experiencing in this moment, if trust and permission have to be introduced to make a service work then the service is subtracting from Bitcoin's strengths and putting users at risk. Any such service should burn to the ground, as painful as it may be for those who realize damages in the process; ultimately they made the choice to sacrifice custody and trust someone else with their bitcoin. If a user wants to gamble and trade with leverage and forfeit custody of their assets then they don't need Bitcoin to do that. Scammers have sold the idea of Bitcoin to millions of users worldwide and delivered fraudulent iterations of the already broken legacy financial system. People who sign up with these services expose themselves to [additional risk by providing KYC information](https://www.econoalchemist.com/post/bitcoin-wallets-for-beginners-part-i). 
+
+The idea that on-ramps like FTX, Coinbase, or any other KYC service facilitates "mAsS aDoPtiOn" is moronic. KYC services functioning in heavily regulated arenas are not conducive to the permissionless and censorship-resistant peer-to-peer transactions that Bitcoin makes possible. So what's the point of using Bitcoin if it's just a centralized debit card or app dressed in orange? If you have had your paycheck garnished, been rejected access to basic financial services because you didn't meet a financial institution's moral standards, have been the victim of identity theft, or theft from hacks, or labeled some kind of extremist for speaking your mind and financially censored for it then you understand buzz words like "permissionless", "censorship-resistant", and "decentralized" actually have real-world meanings and significant implications when applied to money. The path to transacting freely is not paved with compliance. Reject legacy financial services operating behind a façade of Bitcoin's tenants and move forward on a path of radical responsibility as these clown towns burn to the ground. 
+
+This article will cover what happened regarding FTX, a little conspiracy theory as to why, and also provide a few resources for those interested in self-custody.
+
